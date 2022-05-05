@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Quincy-Mwangi
-- 👀 I’m interested in website development
+- 👀 I’m interested in coding, pen-testing and both website & app development 
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on website development
+- 💞️ I’m looking to collaborate on website and app development
 - 📫 you can reach me at quincymwangi333@gmail.com
 - call me on +254 0112094373
 <!---
